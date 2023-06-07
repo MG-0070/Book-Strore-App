@@ -1,6 +1,4 @@
-# VISIT THIS LINK : https://book-store-app-0glg.onrender.com
-
-Hoisting
+#VISIT THIS LINK : https://book-store-app-0glg.onrender.com
 
 # Getting Started with Create React App
 
