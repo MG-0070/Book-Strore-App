@@ -48,7 +48,7 @@ const Footer = () => {
                     </div>
                 </form>
 
-                <p>&copy; 2023 Book Trekker. All Rights Reserved.</p>
+                <p>&copy; 2023 BookStation. All Rights Reserved.</p>
             </div>
         </section>
     )
